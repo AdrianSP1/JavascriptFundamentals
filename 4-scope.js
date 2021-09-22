@@ -58,7 +58,7 @@ function nombre(usuario){
 nombre("Juan carlos");
 console.log(`Hola${miNombre}, como estas?`);
 
-//Ejemplo3 como si creamos un scopelocal, y mandmos llamar la varible fuera de la funcion, nos puede crear un problema.
+//Ejemplo3 como si creamos un scope local, y mandmos llamar la varible fuera de la funcion, nos puede crear un problema.
 
 function nombre(usuario) {
     var miNombre = usuario;
