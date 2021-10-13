@@ -1,4 +1,4 @@
-//Hoisting es cuando las declaraciones de variables y fybcuibe se procesan antes de ejecutar cualquier codigo, al momento de que se genere el hoisting, las funciones se declaran primero, y despues las varibles.
+//Hoisting es cuando las declaraciones de variables y funciones se procesan antes de ejecutar cualquier codigo, al momento de que se genere el hoisting, las funciones se declaran primero, y despues las varibles.
 
 //Ejemplo cuando se corre el siguiente codigo "undefined"
 
